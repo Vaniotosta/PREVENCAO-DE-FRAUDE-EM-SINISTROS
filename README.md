@@ -1,4 +1,5 @@
 # 🛡️ Prevenção de Fraude em Sinistros de Seguro
+Link do App: https://prevencao-de-fraude-em-sinistros-c6vehmqz32u4eifrjlahp4.streamlit.app/
 
 Projeto de ciência de dados **ponta a ponta**: base de dados com problemas reais, tratamento no pandas,
 EDA, 3 modelos do scikit-learn com métricas de negócio e explicabilidade, modelo no MLflow,
