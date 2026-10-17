@@ -1,0 +1,168 @@
+{
+  "parametros_negocio": {
+    "custo_investigacao": 1500.0,
+    "taxa_prevencao": 0.7,
+    "capacidade_pct": 0.1
+  },
+  "divisao": {
+    "treino": {
+      "linhas": 12000,
+      "fim": "2024-10-20"
+    },
+    "validacao": {
+      "linhas": 4000,
+      "fim": "2025-05-26"
+    },
+    "teste": {
+      "linhas": 4000,
+      "fim": "2025-12-30"
+    }
+  },
+  "melhor_modelo": "regressao_logistica",
+  "resultados": [
+    {
+      "modelo": "regressao_logistica",
+      "conjunto": "validacao",
+      "roc_auc": 0.823954650496751,
+      "pr_auc": 0.2801493418771199,
+      "brier": 0.052625843817361885,
+      "casos_investigados": 400,
+      "fraudes_total": 257,
+      "fraudes_capturadas": 103,
+      "recall_na_capacidade": 0.40077821011673154,
+      "precisao_na_capacidade": 0.2575,
+      "lift_na_capacidade": 4.007782101167315,
+      "valor_protegido": 2610055.875,
+      "custo_investigacao": 600000.0,
+      "resultado_liquido": 2010055.875,
+      "roi": 3.350093125
+    },
+    {
+      "modelo": "regressao_logistica",
+      "conjunto": "teste",
+      "roc_auc": 0.8308904463613795,
+      "pr_auc": 0.3729856136427856,
+      "brier": 0.057840248599377364,
+      "casos_investigados": 400,
+      "fraudes_total": 303,
+      "fraudes_capturadas": 141,
+      "recall_na_capacidade": 0.46534653465346537,
+      "precisao_na_capacidade": 0.3525,
+      "lift_na_capacidade": 4.653465346534653,
+      "valor_protegido": 3502174.76,
+      "custo_investigacao": 600000.0,
+      "resultado_liquido": 2902174.76,
+      "roi": 4.836957933333333
+    },
+    {
+      "modelo": "random_forest",
+      "conjunto": "validacao",
+      "roc_auc": 0.808917502034927,
+      "pr_auc": 0.2550782279227886,
+      "brier": 0.054182486953108976,
+      "casos_investigados": 400,
+      "fraudes_total": 257,
+      "fraudes_capturadas": 92,
+      "recall_na_capacidade": 0.35797665369649806,
+      "precisao_na_capacidade": 0.23,
+      "lift_na_capacidade": 3.5797665369649807,
+      "valor_protegido": 2448744.4450000003,
+      "custo_investigacao": 600000.0,
+      "resultado_liquido": 1848744.4450000003,
+      "roi": 3.081240741666667
+    },
+    {
+      "modelo": "random_forest",
+      "conjunto": "teste",
+      "roc_auc": 0.8274017555934657,
+      "pr_auc": 0.36799329961291183,
+      "brier": 0.05872986686928356,
+      "casos_investigados": 400,
+      "fraudes_total": 303,
+      "fraudes_capturadas": 125,
+      "recall_na_capacidade": 0.41254125412541254,
+      "precisao_na_capacidade": 0.3125,
+      "lift_na_capacidade": 4.125412541254126,
+      "valor_protegido": 3280667.5579999997,
+      "custo_investigacao": 600000.0,
+      "resultado_liquido": 2680667.5579999997,
+      "roi": 4.467779263333333
+    },
+    {
+      "modelo": "gradient_boosting",
+      "conjunto": "validacao",
+      "roc_auc": 0.8205397156404016,
+      "pr_auc": 0.27318664889194616,
+      "brier": 0.05290276256159385,
+      "casos_investigados": 400,
+      "fraudes_total": 257,
+      "fraudes_capturadas": 98,
+      "recall_na_capacidade": 0.38132295719844356,
+      "precisao_na_capacidade": 0.245,
+      "lift_na_capacidade": 3.8132295719844356,
+      "valor_protegido": 2577929.459,
+      "custo_investigacao": 600000.0,
+      "resultado_liquido": 1977929.4589999998,
+      "roi": 3.296549098333333
+    },
+    {
+      "modelo": "gradient_boosting",
+      "conjunto": "teste",
+      "roc_auc": 0.8368697838136531,
+      "pr_auc": 0.40003152724437846,
+      "brier": 0.057529354522660316,
+      "casos_investigados": 400,
+      "fraudes_total": 303,
+      "fraudes_capturadas": 138,
+      "recall_na_capacidade": 0.45544554455445546,
+      "precisao_na_capacidade": 0.345,
+      "lift_na_capacidade": 4.554455445544554,
+      "valor_protegido": 3520484.9329999993,
+      "custo_investigacao": 600000.0,
+      "resultado_liquido": 2920484.9329999993,
+      "roi": 4.867474888333332
+    }
+  ],
+  "top_variaveis_melhor_modelo": [
+    {
+      "variavel": "razao_sinistro_valor_segurado",
+      "importancia": 0.16405
+    },
+    {
+      "variavel": "apolice_nova_60d",
+      "importancia": 0.12257
+    },
+    {
+      "variavel": "score_credito",
+      "importancia": 0.06324
+    },
+    {
+      "variavel": "boletim_ocorrencia",
+      "importancia": 0.05552
+    },
+    {
+      "variavel": "tipo_sinistro",
+      "importancia": 0.04265
+    },
+    {
+      "variavel": "alteracoes_apolice_90d",
+      "importancia": 0.03099
+    },
+    {
+      "variavel": "qtd_sinistros_12m",
+      "importancia": 0.02418
+    },
+    {
+      "variavel": "oficina_credenciada",
+      "importancia": 0.02115
+    },
+    {
+      "variavel": "sinistro_madrugada",
+      "importancia": 0.01955
+    },
+    {
+      "variavel": "sinistros_antes_12m",
+      "importancia": 0.00344
+    }
+  ]
+}

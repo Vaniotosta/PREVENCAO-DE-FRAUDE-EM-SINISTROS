@@ -1,0 +1,7 @@
+estrategia,casos_investigados,fraudes_capturadas,valor_protegido,custo,resultado_liquido
+Não investigar,0,0,0.0,0.0,0.0
+Investigar todos,4000,303,5523867.755,6000000.0,-476132.2450000001
+Aleatório (média),400,30,552386.7755,600000.0,-47613.22450000001
+Maiores valores (sem modelo),400,58,2138059.588,600000.0,1538059.588
+Modelo + valor esperado,400,141,3502174.76,600000.0,2902174.76
+"Ideal (só fraudes, impossível)",400,303,5523867.755,600000.0,4923867.755

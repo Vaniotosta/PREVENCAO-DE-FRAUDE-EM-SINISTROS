@@ -1,0 +1,24 @@
+{
+  "linhas": 20000,
+  "taxa_fraude": 0.0676,
+  "taxa_fraude_apolice_nova_60d": 0.13410628019323673,
+  "taxa_fraude_apolice_antiga": 0.044384485666104555,
+  "taxa_fraude_sem_bo": 0.12611607142857142,
+  "taxa_fraude_com_bo": 0.05482456140350877,
+  "taxa_fraude_madrugada": 0.09646910466582598,
+  "taxa_fraude_aviso_tardio": 0.1744186046511628,
+  "taxa_fraude_razao_acima_45": 0.15581524763494714,
+  "taxa_fraude_razao_ate_45": 0.03504688890410021,
+  "valor_medio_sinistro_fraude": 25572.34474852071,
+  "valor_medio_sinistro_legitimo": 19608.267615293866,
+  "top_correlacoes": {
+    "razao_sinistro_valor_segurado": 0.163,
+    "apolice_nova_60d": 0.157,
+    "razao_sinistro_premio": 0.14,
+    "boletim_ocorrencia": -0.109,
+    "score_credito": -0.1,
+    "valor_sinistro": 0.098,
+    "qtd_sinistros_12m": 0.094,
+    "sem_boletim_sem_testemunha": 0.091
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "cenario": "real",
+  "modelo": "regressao_logistica",
+  "status_geral": "ok",
+  "alertas": [],
+  "psi_maximo": 0.005794067846233056,
+  "psi_score": 0.008612790876460164,
+  "variaveis_em_alerta": 0,
+  "variaveis_em_atencao": 0,
+  "roc_auc_referencia": 0.823954650496751,
+  "roc_auc_atual": 0.8308904463613795,
+  "pr_auc_referencia": 0.2801493418771199,
+  "pr_auc_atual": 0.3729856136427856,
+  "resultado_liquido_referencia": 2010055.875,
+  "resultado_liquido_atual": 2902174.76,
+  "taxa_fraude_referencia": 0.06425,
+  "taxa_fraude_atual": 0.07575,
+  "regras": {
+    "psi_atencao": 0.1,
+    "psi_alerta": 0.25,
+    "queda_auc": 0.05,
+    "queda_resultado": 0.25
+  }
+}

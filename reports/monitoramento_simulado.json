@@ -1,0 +1,27 @@
+{
+  "cenario": "simulado",
+  "modelo": "regressao_logistica",
+  "status_geral": "alerta",
+  "alertas": [
+    "7 variável(is) com PSI acima de 0,25: atraso_aviso_dias, razao_sinistro_valor_segurado, razao_sinistro_premio, score_credito, hora_sinistro",
+    "O score de risco mudou muito (PSI 0.58)"
+  ],
+  "psi_maximo": 8.564248799186656,
+  "psi_score": 0.5801856432114167,
+  "variaveis_em_alerta": 7,
+  "variaveis_em_atencao": 1,
+  "roc_auc_referencia": 0.823954650496751,
+  "roc_auc_atual": 0.8179176586849921,
+  "pr_auc_referencia": 0.2801493418771199,
+  "pr_auc_atual": 0.3598380869630058,
+  "resultado_liquido_referencia": 2010055.875,
+  "resultado_liquido_atual": 4640618.7855,
+  "taxa_fraude_referencia": 0.06425,
+  "taxa_fraude_atual": 0.07575,
+  "regras": {
+    "psi_atencao": 0.1,
+    "psi_alerta": 0.25,
+    "queda_auc": 0.05,
+    "queda_resultado": 0.25
+  }
+}

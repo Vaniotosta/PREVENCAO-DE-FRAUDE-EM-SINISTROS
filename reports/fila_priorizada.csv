@@ -1,0 +1,401 @@
+posicao,prioridade,analista,id_sinistro,prob_fraude,valor_sinistro,valor_protegido_esperado,valor_esperado_liquido,motivo_principal,motivo_secundario,tipo_sinistro,uf,fraude_real_(so_para_avaliar)
+1,Crítica,Analista 1,SIN-006307,0.7819226194778803,54544.26,29854.573459677795,28354.573459677795,Boletim de ocorrência e testemunhas,Sinistro logo após contratar a apólice,Colisão,SP,1
+2,Crítica,Analista 2,SIN-007424,0.7110352105282983,55783.25,27764.69843539189,26264.69843539189,Boletim de ocorrência e testemunhas,Sinistro logo após contratar a apólice,Danos naturais,SC,1
+3,Crítica,Analista 3,SIN-000962,0.6103116276048606,61598.09,26315.82139567548,24815.82139567548,Sinistro logo após contratar a apólice,Score de crédito,Danos naturais,SC,1
+4,Crítica,Analista 4,SIN-005791,0.7727596219050187,44446.52,24042.53319313569,22542.53319313569,Sinistro logo após contratar a apólice,Valor do sinistro (e peso sobre o bem),Furto,PR,1
+5,Crítica,Analista 5,SIN-013423,0.4935306318497641,59424.98,20529.633548941718,19029.633548941718,Sinistro logo após contratar a apólice,Boletim de ocorrência e testemunhas,Roubo,SP,1
+6,Crítica,Analista 5,SIN-011144,0.5469288529546673,52635.07,20151.346922202032,18651.346922202032,Sinistro logo após contratar a apólice,Score de crédito,Colisão,RS,1
+7,Crítica,Analista 4,SIN-016551,0.505449450224898,50330.19,17807.55680565026,16307.55680565026,Sinistro logo após contratar a apólice,Valor do sinistro (e peso sobre o bem),Furto,SP,0
+8,Crítica,Analista 3,SIN-008666,0.1974763570686653,123299.44,17044.10696786453,15544.106967864529,Sinistro logo após contratar a apólice,Histórico de sinistros,Colisão,PR,0
+9,Crítica,Analista 2,SIN-006976,0.4584625645496438,52920.85,16983.56002640291,15483.560026402909,Boletim de ocorrência e testemunhas,Sinistro logo após contratar a apólice,Roubo,MG,1
+10,Crítica,Analista 1,SIN-003429,0.3780157568613148,64146.17,16973.784101613193,15473.784101613193,Sinistro logo após contratar a apólice,Histórico de sinistros,Colisão,MG,0
+11,Crítica,Analista 1,SIN-019820,0.6203769238303293,38276.55,16622.121840686454,15122.121840686454,Sinistro logo após contratar a apólice,Alterações recentes na apólice,Colisão,SP,0
+12,Crítica,Analista 2,SIN-015113,0.3218697730642578,71955.62,16212.237356068577,14712.237356068577,Boletim de ocorrência e testemunhas,Valor do sinistro (e peso sobre o bem),Roubo,SC,0
+13,Crítica,Analista 3,SIN-015775,0.5060302780214444,45526.28,16126.373287977485,14626.373287977485,Boletim de ocorrência e testemunhas,Sinistro logo após contratar a apólice,Danos naturais,MG,1
+14,Crítica,Analista 4,SIN-013442,0.3227435510321459,70802.11,15995.647081378025,14495.647081378025,Sinistro logo após contratar a apólice,Valor do sinistro (e peso sobre o bem),Colisão,BA,0
+15,Crítica,Analista 5,SIN-003279,0.6726888923471076,33758.33,15896.197530631693,14396.197530631693,Boletim de ocorrência e testemunhas,Sinistro logo após contratar a apólice,Danos naturais,PR,1
+16,Crítica,Analista 5,SIN-013259,0.3402233021442742,65785.56,15667.246319627195,14167.246319627195,Boletim de ocorrência e testemunhas,Alterações recentes na apólice,Roubo,SP,1
+17,Crítica,Analista 4,SIN-018507,0.8245468488194062,26681.41,15400.050776291015,13900.050776291015,Histórico de sinistros,Boletim de ocorrência e testemunhas,Incêndio,SP,1
+18,Crítica,Analista 3,SIN-012450,0.5355516313679899,41041.98,15386.06954050069,13886.06954050069,Sinistro logo após contratar a apólice,Valor do sinistro (e peso sobre o bem),Colisão,PE,1
+19,Crítica,Analista 2,SIN-007940,0.3728591813128377,58875.59,15366.613000697203,13866.613000697203,Sinistro logo após contratar a apólice,Valor do sinistro (e peso sobre o bem),Roubo,PE,1
+20,Crítica,Analista 1,SIN-001052,0.2658335740733694,81487.01,15163.388176196671,13663.388176196671,Boletim de ocorrência e testemunhas,Valor do sinistro (e peso sobre o bem),Colisão,RJ,1
+21,Crítica,Analista 1,SIN-019330,0.4231313225431691,51008.41,15108.279188886949,13608.279188886949,Sinistro logo após contratar a apólice,Valor do sinistro (e peso sobre o bem),Danos naturais,PR,1
+22,Crítica,Analista 2,SIN-018734,0.3702023457267594,57882.92,14999.87493306005,13499.87493306005,Sinistro logo após contratar a apólice,Valor do sinistro (e peso sobre o bem),Danos naturais,SC,1
+23,Crítica,Analista 3,SIN-005007,0.4773102683621014,44344.84,14816.37323661211,13316.37323661211,Sinistro logo após contratar a apólice,Valor do sinistro (e peso sobre o bem),Colisão,RJ,1
+24,Crítica,Analista 4,SIN-008388,0.4261302255688456,47149.26,14064.207359442906,12564.207359442906,Sinistro logo após contratar a apólice,Alterações recentes na apólice,Roubo,PR,1
+25,Crítica,Analista 5,SIN-014770,0.2375307651506908,82657.85,13743.647649347718,12243.647649347718,Boletim de ocorrência e testemunhas,Valor do sinistro (e peso sobre o bem),Furto,SP,1
+26,Crítica,Analista 5,SIN-003403,0.2247013660412059,87013.91,13686.501109110583,12186.501109110583,Sinistro logo após contratar a apólice,Valor do sinistro (e peso sobre o bem),Roubo,SP,1
+27,Crítica,Analista 4,SIN-011684,0.3299307933614134,59028.49,13632.72157563838,12132.72157563838,Sinistro logo após contratar a apólice,Histórico de sinistros,Roubo,BA,0
+28,Crítica,Analista 3,SIN-011707,0.2466667628837246,76616.38,13229.10010692854,11729.10010692854,Valor do sinistro (e peso sobre o bem),Boletim de ocorrência e testemunhas,Roubo,BA,0
+29,Crítica,Analista 2,SIN-000111,0.5606030961631746,33393.87,13104.494840409387,11604.494840409387,Sinistro logo após contratar a apólice,Valor do sinistro (e peso sobre o bem),Danos naturais,PR,0
+30,Crítica,Analista 1,SIN-000488,0.3081483375750831,60353.59,13018.50089763171,11518.50089763171,Sinistro logo após contratar a apólice,Valor do sinistro (e peso sobre o bem),Colisão,RJ,0
+31,Crítica,Analista 1,SIN-009299,0.5559016652179651,32898.4,12801.792740104693,11301.792740104693,Sinistro logo após contratar a apólice,Valor do sinistro (e peso sobre o bem),Colisão,SP,0
+32,Crítica,Analista 2,SIN-014723,0.4491245763313867,40350.53,12685.690283697835,11185.690283697835,Boletim de ocorrência e testemunhas,Sinistro logo após contratar a apólice,Colisão,SC,0
+33,Crítica,Analista 3,SIN-005436,0.5235144576988612,33671.04,12339.093372029663,10839.093372029663,Sinistro logo após contratar a apólice,Histórico de sinistros,Colisão,MG,0
+34,Crítica,Analista 4,SIN-006821,0.5533853822473169,31122.3,12055.838117340969,10555.838117340969,Sinistro logo após contratar a apólice,Tipo de sinistro,Furto,SP,0
+35,Crítica,Analista 5,SIN-012608,0.3866842615847175,44477.17,12039.035147179564,10539.035147179564,Boletim de ocorrência e testemunhas,Sinistro logo após contratar a apólice,Roubo,BA,1
+36,Crítica,Analista 5,SIN-000839,0.3061827818774487,56006.08,12003.66816351566,10503.66816351566,Boletim de ocorrência e testemunhas,Tipo de sinistro,Roubo,MG,0
+37,Crítica,Analista 4,SIN-000213,0.2900090745099675,58950.97,11967.4213758154,10467.4213758154,Sinistro logo após contratar a apólice,Valor do sinistro (e peso sobre o bem),Colisão,RS,1
+38,Crítica,Analista 3,SIN-018591,0.3265595133247005,50941.42,11644.783726288415,10144.783726288415,Sinistro logo após contratar a apólice,Boletim de ocorrência e testemunhas,Colisão,PR,1
+39,Crítica,Analista 2,SIN-010541,0.4675334898348672,35571.7,11641.67272825126,10141.67272825126,Sinistro logo após contratar a apólice,Score de crédito,Colisão,BA,1
+40,Crítica,Analista 1,SIN-015953,0.4640207118389299,35507.47,11533.341053499613,10033.341053499613,Sinistro logo após contratar a apólice,Valor do sinistro (e peso sobre o bem),Roubo,PR,1
+41,Crítica,Analista 1,SIN-003474,0.4466539007385737,36049.85,11271.264286478328,9771.264286478328,Sinistro logo após contratar a apólice,Boletim de ocorrência e testemunhas,Colisão,SP,0
+42,Crítica,Analista 2,SIN-013904,0.2585181840086393,61846.91,11191.985601822027,9691.985601822027,Sinistro logo após contratar a apólice,Valor do sinistro (e peso sobre o bem),Colisão,SP,0
+43,Crítica,Analista 3,SIN-015580,0.4085004170458393,38372.26,10972.558949093964,9472.558949093964,Sinistro logo após contratar a apólice,Valor do sinistro (e peso sobre o bem),Colisão,SP,0
+44,Crítica,Analista 4,SIN-013314,0.493374663566123,31677.68,10940.27529878871,9440.27529878871,Sinistro logo após contratar a apólice,Histórico de sinistros,Roubo,BA,1
+45,Crítica,Analista 5,SIN-018312,0.2397273977497417,64910.29,10892.542436216756,9392.542436216756,Atraso para avisar a seguradora,Valor do sinistro (e peso sobre o bem),Danos naturais,RJ,0
+46,Crítica,Analista 5,SIN-016048,0.4430734622016659,34866.26,10813.820172556418,9313.820172556418,Sinistro logo após contratar a apólice,Valor do sinistro (e peso sobre o bem),Colisão,BA,1
+47,Crítica,Analista 4,SIN-001342,0.5624115737323506,27163.85,10694.084538990657,9194.084538990657,Atraso para avisar a seguradora,Boletim de ocorrência e testemunhas,Danos naturais,SC,0
+48,Crítica,Analista 3,SIN-007311,0.4744135169405691,32189.92,10689.933210064894,9189.933210064894,Boletim de ocorrência e testemunhas,Sinistro logo após contratar a apólice,Roubo,PE,0
+49,Crítica,Analista 2,SIN-002529,0.3622026620461686,41911.32,10626.274171708177,9126.274171708177,Boletim de ocorrência e testemunhas,Valor do sinistro (e peso sobre o bem),Roubo,MG,1
+50,Crítica,Analista 1,SIN-003021,0.2937972366898186,51659.71,10624.23603233817,9124.23603233817,Sinistro logo após contratar a apólice,Valor do sinistro (e peso sobre o bem),Furto,SP,1
+51,Crítica,Analista 1,SIN-016259,0.3217026174408553,46753.37,10528.477052226533,9028.477052226533,Sinistro logo após contratar a apólice,Tipo de sinistro,Furto,RS,1
+52,Crítica,Analista 2,SIN-018412,0.3408854657323044,43946.66,10486.544363035462,8986.544363035462,Valor do sinistro (e peso sobre o bem),Histórico de sinistros,Roubo,SP,1
+53,Crítica,Analista 3,SIN-006832,0.259032789310082,56979.01,10331.602324698939,8831.602324698939,Sinistro logo após contratar a apólice,Valor do sinistro (e peso sobre o bem),Colisão,RJ,0
+54,Crítica,Analista 4,SIN-006737,0.6046662533932011,24204.88,10245.111872402418,8745.111872402418,Sinistro logo após contratar a apólice,Alterações recentes na apólice,Colisão,PE,1
+55,Crítica,Analista 5,SIN-008523,0.2532693462827045,57452.41,10185.65402614614,8685.65402614614,Boletim de ocorrência e testemunhas,Valor do sinistro (e peso sobre o bem),Colisão,PE,0
+56,Crítica,Analista 5,SIN-009537,0.4128721869507122,34972.83,10107.516164168834,8607.516164168834,Sinistro logo após contratar a apólice,Alterações recentes na apólice,Incêndio,SC,1
+57,Crítica,Analista 4,SIN-004974,0.4084580630466963,35127.5,10043.677426770975,8543.677426770975,Valor do sinistro (e peso sobre o bem),Histórico de sinistros,Incêndio,PR,0
+58,Crítica,Analista 3,SIN-000600,0.5039384758668813,28454.75,10037.610342321199,8537.610342321199,Histórico de sinistros,Score de crédito,Roubo,SP,1
+59,Crítica,Analista 2,SIN-000841,0.1324609309829238,106248.26,9851.620404441019,8351.620404441019,Boletim de ocorrência e testemunhas,Valor do sinistro (e peso sobre o bem),Colisão,MG,0
+60,Crítica,Analista 1,SIN-015242,0.6660463042475295,21115.62,9844.786464026653,8344.786464026653,Sinistro logo após contratar a apólice,Valor do sinistro (e peso sobre o bem),Roubo,SP,1
+61,Crítica,Analista 1,SIN-019286,0.1537720216872639,90884.71,9782.867918012484,8282.867918012484,Sinistro logo após contratar a apólice,Valor do sinistro (e peso sobre o bem),Colisão,MG,1
+62,Crítica,Analista 2,SIN-004145,0.4936863138917493,28128.29,9720.586264324707,8220.586264324707,Sinistro logo após contratar a apólice,Score de crédito,Roubo,PE,1
+63,Crítica,Analista 3,SIN-002163,0.20828807845296,66565.89,9705.416923027773,8205.416923027773,Sinistro logo após contratar a apólice,Valor do sinistro (e peso sobre o bem),Colisão,SP,0
+64,Crítica,Analista 4,SIN-000622,0.4436663633637212,31110.27,9661.806247914432,8161.806247914432,Boletim de ocorrência e testemunhas,Valor do sinistro (e peso sobre o bem),Roubo,RJ,0
+65,Crítica,Analista 5,SIN-011180,0.3144980246827582,43601.12,9598.726279769133,8098.726279769133,Sinistro logo após contratar a apólice,Valor do sinistro (e peso sobre o bem),Roubo,PR,1
+66,Crítica,Analista 5,SIN-004173,0.2735072195779995,49757.36,9526.298030999098,8026.298030999098,Boletim de ocorrência e testemunhas,Valor do sinistro (e peso sobre o bem),Furto,RJ,0
+67,Crítica,Analista 4,SIN-006694,0.3595438280706382,37390.38,9410.43625075108,7910.43625075108,Sinistro logo após contratar a apólice,Valor do sinistro (e peso sobre o bem),Roubo,PR,0
+68,Crítica,Analista 3,SIN-009252,0.2522391792855372,52904.18,9341.154860782031,7841.154860782031,Sinistro logo após contratar a apólice,Boletim de ocorrência e testemunhas,Danos naturais,PE,1
+69,Crítica,Analista 2,SIN-001543,0.1841403820476715,72198.02,9306.199690119798,7806.199690119798,Histórico de sinistros,Score de crédito,Danos naturais,SP,0
+70,Crítica,Analista 1,SIN-019383,0.5398644328461728,24556.48,9280.019103528868,7780.019103528868,Sinistro logo após contratar a apólice,Valor do sinistro (e peso sobre o bem),Furto,RS,1
+71,Crítica,Analista 1,SIN-017726,0.4028491215551752,32297.5,9107.713652399789,7607.713652399789,Boletim de ocorrência e testemunhas,Sinistro logo após contratar a apólice,Danos naturais,SP,0
+72,Crítica,Analista 2,SIN-004423,0.4935149527282572,26247.43,9067.449422981766,7567.4494229817665,Sinistro logo após contratar a apólice,Boletim de ocorrência e testemunhas,Colisão,SC,0
+73,Crítica,Analista 3,SIN-003159,0.3288914625482126,39133.05,9009.368233930632,7509.368233930632,Sinistro logo após contratar a apólice,Valor do sinistro (e peso sobre o bem),Roubo,MG,0
+74,Crítica,Analista 4,SIN-005528,0.4287988228588665,29891.34,8972.159983971904,7472.159983971904,Sinistro logo após contratar a apólice,Boletim de ocorrência e testemunhas,Roubo,BA,1
+75,Crítica,Analista 5,SIN-014158,0.4700975572850452,27138.82,8930.525092718972,7430.525092718972,Sinistro logo após contratar a apólice,Dados da apólice,Colisão,PE,0
+76,Crítica,Analista 5,SIN-019817,0.1884257121524325,67375.13,8886.644796128903,7386.644796128903,Sinistro logo após contratar a apólice,Valor do sinistro (e peso sobre o bem),Colisão,SP,0
+77,Crítica,Analista 4,SIN-019078,0.2719213563784532,46583.7,8866.972022388865,7366.972022388865,Sinistro logo após contratar a apólice,Oficina,Colisão,SP,0
+78,Crítica,Analista 3,SIN-006030,0.3597263374117272,34947.78,8800.145830049567,7300.145830049567,Histórico de sinistros,Sinistro logo após contratar a apólice,Colisão,SP,0
+79,Crítica,Analista 2,SIN-005845,0.1899032494026453,65963.39,8768.66347182977,7268.66347182977,Histórico de sinistros,Boletim de ocorrência e testemunhas,Danos naturais,PR,0
+80,Crítica,Analista 1,SIN-006511,0.4327105912566485,28881.42,8748.107427172115,7248.107427172115,Boletim de ocorrência e testemunhas,Sinistro logo após contratar a apólice,Colisão,RJ,1
+81,Crítica,Analista 1,SIN-001951,0.408186340460596,30409.62,8688.954051818144,7188.954051818144,Boletim de ocorrência e testemunhas,Histórico de sinistros,Colisão,PR,0
+82,Crítica,Analista 2,SIN-012550,0.1964588127923759,63137.58,8682.753806568559,7182.7538065685585,Sinistro logo após contratar a apólice,Tipo de sinistro,Roubo,RS,0
+83,Crítica,Analista 3,SIN-015183,0.5610964988175269,22086.63,8674.911534574707,7174.911534574707,Score de crédito,Sinistro logo após contratar a apólice,Roubo,SP,1
+84,Crítica,Analista 4,SIN-007372,0.2961981750142339,40343.18,8364.703403189518,6864.703403189518,Valor do sinistro (e peso sobre o bem),Alterações recentes na apólice,Furto,RJ,0
+85,Crítica,Analista 5,SIN-010653,0.2696854887346087,44232.43,8350.191151728555,6850.191151728555,Histórico de sinistros,Valor do sinistro (e peso sobre o bem),Colisão,BA,0
+86,Crítica,Analista 5,SIN-006554,0.1972357133498395,59189.9,8172.0535047239655,6672.0535047239655,Valor do sinistro (e peso sobre o bem),Tipo de sinistro,Roubo,SP,0
+87,Crítica,Analista 4,SIN-003262,0.2495396021501298,46726.92,8162.1519185506595,6662.1519185506595,Histórico de sinistros,Alterações recentes na apólice,Roubo,SP,0
+88,Crítica,Analista 3,SIN-007672,0.3326761905723192,34868.92,8120.041632479665,6620.041632479665,Boletim de ocorrência e testemunhas,Dados da apólice,Colisão,PE,1
+89,Crítica,Analista 2,SIN-003083,0.2313561841634027,49912.8,8083.344464237761,6583.344464237761,Valor do sinistro (e peso sobre o bem),Score de crédito,Roubo,SP,0
+90,Crítica,Analista 1,SIN-000241,0.5260962687105875,21921.79,8073.080345719948,6573.080345719948,Alterações recentes na apólice,Sinistro logo após contratar a apólice,Colisão,RS,1
+91,Crítica,Analista 1,SIN-008936,0.3500222816117671,32926.92,8067.608965393689,6567.608965393689,Boletim de ocorrência e testemunhas,Valor do sinistro (e peso sobre o bem),Roubo,BA,1
+92,Crítica,Analista 2,SIN-008810,0.1816652430939542,62914.06,8000.508602749334,6500.508602749334,Sinistro logo após contratar a apólice,Oficina,Colisão,RJ,0
+93,Crítica,Analista 3,SIN-018755,0.24017436320075,47427.3,7973.575103081651,6473.575103081651,Sinistro logo após contratar a apólice,Tipo de sinistro,Roubo,SP,1
+94,Crítica,Analista 4,SIN-003396,0.2678182387736454,42293.67,7928.911347471633,6428.911347471633,Boletim de ocorrência e testemunhas,Valor do sinistro (e peso sobre o bem),Colisão,SP,0
+95,Crítica,Analista 5,SIN-017441,0.3527652491961099,31992.29,7900.03770794295,6400.03770794295,Sinistro logo após contratar a apólice,Alterações recentes na apólice,Colisão,RS,1
+96,Crítica,Analista 5,SIN-000006,0.3065325280970084,36781.45,7892.297598901597,6392.297598901597,Valor do sinistro (e peso sobre o bem),Boletim de ocorrência e testemunhas,Roubo,RS,0
+97,Crítica,Analista 4,SIN-001976,0.4818392237294605,23123.37,7799.222655566366,6299.222655566366,Sinistro logo após contratar a apólice,Boletim de ocorrência e testemunhas,Roubo,PE,1
+98,Crítica,Analista 3,SIN-016855,0.2521687431963134,44172.58,7797.260787637026,6297.260787637026,Sinistro logo após contratar a apólice,Valor do sinistro (e peso sobre o bem),Colisão,RJ,0
+99,Crítica,Analista 2,SIN-009296,0.2517086403745976,44203.63,7788.5049248452415,6288.5049248452415,Boletim de ocorrência e testemunhas,Dados da apólice,Colisão,RJ,0
+100,Crítica,Analista 1,SIN-007026,0.4291295985020493,25819.37,7755.899117173099,6255.899117173099,Sinistro logo após contratar a apólice,Alterações recentes na apólice,Roubo,RS,1
+101,Alta,Analista 1,SIN-009654,0.4907419051864718,22551.14,7746.752585408796,6246.752585408796,Sinistro logo após contratar a apólice,Alterações recentes na apólice,Incêndio,RS,0
+102,Alta,Analista 2,SIN-004025,0.4297032709544812,25702.13,7731.00253204811,6231.00253204811,Sinistro logo após contratar a apólice,Valor do sinistro (e peso sobre o bem),Colisão,PE,1
+103,Alta,Analista 3,SIN-003368,0.6338981449115751,17417.87,7728.808836917683,6228.808836917683,Boletim de ocorrência e testemunhas,Sinistro logo após contratar a apólice,Danos naturais,PR,0
+104,Alta,Analista 4,SIN-016637,0.1156115310418358,94477.2,7645.85761838201,6145.85761838201,Sinistro logo após contratar a apólice,Oficina,Colisão,SP,0
+105,Alta,Analista 5,SIN-013955,0.3200567251029397,34102.16,7640.237953975526,6140.237953975526,Sinistro logo após contratar a apólice,Valor do sinistro (e peso sobre o bem),Roubo,RS,1
+106,Alta,Analista 5,SIN-018703,0.4658676214769381,23402.67,7631.782346376785,6131.782346376785,Sinistro logo após contratar a apólice,Boletim de ocorrência e testemunhas,Roubo,SC,1
+107,Alta,Analista 4,SIN-012863,0.1393817647112125,78169.79,7626.810294113423,6126.810294113423,Valor do sinistro (e peso sobre o bem),Oficina,Roubo,SP,0
+108,Alta,Analista 3,SIN-014639,0.2017985105818694,53586.76,7569.609848435667,6069.609848435667,Sinistro logo após contratar a apólice,Valor do sinistro (e peso sobre o bem),Incêndio,RS,0
+109,Alta,Analista 2,SIN-009172,0.3846811707034272,27880.75,7507.639685062705,6007.639685062705,Sinistro logo após contratar a apólice,Boletim de ocorrência e testemunhas,Colisão,RJ,1
+110,Alta,Analista 1,SIN-000893,0.1512537789313567,70252.22,7438.139627321924,5938.139627321924,Boletim de ocorrência e testemunhas,Histórico de sinistros,Colisão,RS,0
+111,Alta,Analista 1,SIN-017831,0.3696371337532572,28435.16,7357.483728150687,5857.483728150687,Sinistro logo após contratar a apólice,Valor do sinistro (e peso sobre o bem),Furto,RJ,1
+112,Alta,Analista 2,SIN-000819,0.3537882095571175,29572.44,7323.666419884698,5823.666419884698,Score de crédito,Boletim de ocorrência e testemunhas,Roubo,MG,1
+113,Alta,Analista 3,SIN-017958,0.2248291941087415,46278.85,7283.385584845531,5783.385584845531,Sinistro logo após contratar a apólice,Valor do sinistro (e peso sobre o bem),Danos naturais,SP,0
+114,Alta,Analista 4,SIN-018237,0.6363124445461925,16314.58,7266.819197081094,5766.819197081094,Boletim de ocorrência e testemunhas,Sinistro logo após contratar a apólice,Roubo,MG,0
+115,Alta,Analista 5,SIN-016798,0.2844827081461946,36448.29,7258.235772548504,5758.235772548504,Boletim de ocorrência e testemunhas,Valor do sinistro (e peso sobre o bem),Incêndio,MG,1
+116,Alta,Analista 5,SIN-009949,0.2964641955372558,34785.72,7218.90434718896,5718.90434718896,Boletim de ocorrência e testemunhas,Valor do sinistro (e peso sobre o bem),Furto,PE,0
+117,Alta,Analista 4,SIN-007659,0.4224743413497997,24345.51,7199.747311452473,5699.747311452473,Sinistro logo após contratar a apólice,Valor do sinistro (e peso sobre o bem),Furto,PR,1
+118,Alta,Analista 3,SIN-007868,0.1787203355786414,57526.66,7196.828785942885,5696.828785942885,Sinistro logo após contratar a apólice,Valor do sinistro (e peso sobre o bem),Incêndio,SP,0
+119,Alta,Analista 2,SIN-014453,0.3367085491603417,30423.29,7170.647285609032,5670.647285609032,Sinistro logo após contratar a apólice,Valor do sinistro (e peso sobre o bem),Roubo,SP,0
+120,Alta,Analista 1,SIN-015115,0.3542978188466645,28846.73,7154.23346390105,5654.23346390105,Sinistro logo após contratar a apólice,Valor do sinistro (e peso sobre o bem),Colisão,SP,1
+121,Alta,Analista 1,SIN-006020,0.2351546913343027,43452.22,7152.595367323151,5652.595367323151,Sinistro logo após contratar a apólice,Alterações recentes na apólice,Colisão,SP,1
+122,Alta,Analista 2,SIN-016019,0.5531613718757844,18439.03,7139.83139160112,5639.83139160112,Boletim de ocorrência e testemunhas,Sinistro logo após contratar a apólice,Colisão,RS,1
+123,Alta,Analista 3,SIN-010426,0.2494011020984963,40261.88,7028.950071190184,5528.950071190184,Sinistro logo após contratar a apólice,Oficina,Colisão,MG,0
+124,Alta,Analista 4,SIN-008925,0.3135703432633323,31635.23,6943.908951220127,5443.908951220127,Sinistro logo após contratar a apólice,Valor do sinistro (e peso sobre o bem),Incêndio,SP,0
+125,Alta,Analista 5,SIN-002834,0.1551725603098343,63871.3,6937.7512059222645,5437.7512059222645,Sinistro logo após contratar a apólice,Tipo de sinistro,Furto,MG,0
+126,Alta,Analista 5,SIN-018202,0.2749673742758282,36043.46,6937.5428892110895,5437.5428892110895,Sinistro logo após contratar a apólice,Histórico de sinistros,Roubo,RJ,1
+127,Alta,Analista 4,SIN-007682,0.2147073381239512,46126.6,6932.603651895773,5432.603651895773,Sinistro logo após contratar a apólice,Oficina,Colisão,RJ,0
+128,Alta,Analista 3,SIN-006973,0.3945220546423367,25043.29,6916.091158062719,5416.091158062719,Valor do sinistro (e peso sobre o bem),Boletim de ocorrência e testemunhas,Incêndio,RJ,1
+129,Alta,Analista 2,SIN-009940,0.2391124676671341,40808.6,6830.491533628706,5330.491533628706,Histórico de sinistros,Valor do sinistro (e peso sobre o bem),Colisão,SP,0
+130,Alta,Analista 1,SIN-008239,0.3544083026321425,27437.36,6806.819730414929,5306.819730414929,Sinistro logo após contratar a apólice,Valor do sinistro (e peso sobre o bem),Roubo,PR,0
+131,Alta,Analista 1,SIN-004981,0.3175154905402137,30554.12,6790.984479877188,5290.984479877188,Sinistro logo após contratar a apólice,Score de crédito,Colisão,RJ,1
+132,Alta,Analista 2,SIN-000828,0.557907172108697,17344.58,6773.665905449145,5273.665905449145,Boletim de ocorrência e testemunhas,Histórico de sinistros,Colisão,SP,0
+133,Alta,Analista 3,SIN-001416,0.1953239132070907,49474.1,6764.432370079247,5264.432370079247,Boletim de ocorrência e testemunhas,Tipo de sinistro,Incêndio,RS,0
+134,Alta,Analista 4,SIN-000882,0.222002102011429,43369.44,6739.674790140984,5239.674790140984,Sinistro logo após contratar a apólice,Oficina,Roubo,SP,0
+135,Alta,Analista 5,SIN-004700,0.3959576472172673,24130.87,6688.361757354017,5188.361757354017,Sinistro logo após contratar a apólice,Valor do sinistro (e peso sobre o bem),Colisão,SP,1
+136,Alta,Analista 5,SIN-018409,0.5697670466488857,16743.86,6678.069763191686,5178.069763191686,Sinistro logo após contratar a apólice,Valor do sinistro (e peso sobre o bem),Colisão,PR,1
+137,Alta,Analista 4,SIN-011211,0.4494139688618013,21127.41,6646.467225909356,5146.467225909356,Boletim de ocorrência e testemunhas,Valor do sinistro (e peso sobre o bem),Furto,BA,1
+138,Alta,Analista 3,SIN-013189,0.2128289047381181,44146.13,6576.900747428604,5076.900747428604,Valor do sinistro (e peso sobre o bem),Tipo de sinistro,Furto,PR,0
+139,Alta,Analista 2,SIN-009706,0.1923705395225266,48798.9,6571.229504774077,5071.229504774077,Sinistro logo após contratar a apólice,Valor do sinistro (e peso sobre o bem),Colisão,BA,0
+140,Alta,Analista 1,SIN-019562,0.4101969513491772,22722.02,6524.352332746523,5024.352332746523,Boletim de ocorrência e testemunhas,Histórico de sinistros,Colisão,BA,0
+141,Alta,Analista 1,SIN-019076,0.4252719911953861,21781.45,6484.128428835919,4984.128428835919,Boletim de ocorrência e testemunhas,Valor do sinistro (e peso sobre o bem),Incêndio,PR,0
+142,Alta,Analista 2,SIN-001240,0.2060538593707141,44910.02,6477.718061791169,4977.718061791169,Sinistro logo após contratar a apólice,Valor do sinistro (e peso sobre o bem),Danos naturais,PR,1
+143,Alta,Analista 3,SIN-011308,0.3151433678183633,29294.26,6462.324227902735,4962.324227902735,Sinistro logo após contratar a apólice,Score de crédito,Danos naturais,SP,1
+144,Alta,Analista 4,SIN-006941,0.118001678719326,77957.63,6439.391846286063,4939.391846286063,Valor do sinistro (e peso sobre o bem),Oficina,Roubo,MG,0
+145,Alta,Analista 5,SIN-004685,0.4245211957043384,21565.3,6408.448859205937,4908.448859205937,Sinistro logo após contratar a apólice,Valor do sinistro (e peso sobre o bem),Danos naturais,PE,1
+146,Alta,Analista 5,SIN-001066,0.1989807422278289,45681.58,6362.828286177961,4862.828286177961,Alterações recentes na apólice,Valor do sinistro (e peso sobre o bem),Colisão,SP,0
+147,Alta,Analista 4,SIN-004085,0.1673423848508973,54276.07,6357.880895893968,4857.880895893968,Sinistro logo após contratar a apólice,Tipo de sinistro,Furto,RJ,0
+148,Alta,Analista 3,SIN-010970,0.531497477694426,17046.21,6342.012333474651,4842.012333474651,Valor do sinistro (e peso sobre o bem),Boletim de ocorrência e testemunhas,Roubo,RJ,0
+149,Alta,Analista 2,SIN-015707,0.252771778147333,35800.08,6334.474915591741,4834.474915591741,Sinistro logo após contratar a apólice,Alterações recentes na apólice,Incêndio,PR,0
+150,Alta,Analista 1,SIN-001207,0.2618657032247899,34297.42,6286.922604967181,4786.922604967181,Sinistro logo após contratar a apólice,Valor do sinistro (e peso sobre o bem),Incêndio,SP,1
+151,Alta,Analista 1,SIN-011323,0.3121166799813976,28750.33,6281.420283578702,4781.420283578702,Sinistro logo após contratar a apólice,Valor do sinistro (e peso sobre o bem),Colisão,BA,1
+152,Alta,Analista 2,SIN-019641,0.1837932959248232,48700.06,6265.521177395652,4765.521177395652,Valor do sinistro (e peso sobre o bem),Alterações recentes na apólice,Colisão,MG,0
+153,Alta,Analista 3,SIN-007020,0.1889575654496569,47338.62,6261.4932708625065,4761.4932708625065,Sinistro logo após contratar a apólice,Boletim de ocorrência e testemunhas,Roubo,MG,0
+154,Alta,Analista 4,SIN-014015,0.3469596467605191,25709.97,6244.22547659648,4744.22547659648,Sinistro logo após contratar a apólice,Boletim de ocorrência e testemunhas,Roubo,RJ,0
+155,Alta,Analista 5,SIN-005259,0.1454675588797809,60515.91,6162.171190761966,4662.171190761966,Boletim de ocorrência e testemunhas,Valor do sinistro (e peso sobre o bem),Colisão,RJ,0
+156,Alta,Analista 5,SIN-005050,0.1466312373894188,59748.66,6132.71396371177,4632.71396371177,Valor do sinistro (e peso sobre o bem),Boletim de ocorrência e testemunhas,Roubo,SP,1
+157,Alta,Analista 4,SIN-019411,0.2809733557938967,31177.8,6132.091764589666,4632.091764589666,Boletim de ocorrência e testemunhas,Valor do sinistro (e peso sobre o bem),Danos naturais,SP,0
+158,Alta,Analista 3,SIN-017007,0.3551537066719587,24493.57,6089.287522590361,4589.287522590361,Valor do sinistro (e peso sobre o bem),Histórico de sinistros,Colisão,SP,0
+159,Alta,Analista 2,SIN-004779,0.2231686219835387,38816.36,6063.815500131867,4563.815500131867,Sinistro logo após contratar a apólice,Boletim de ocorrência e testemunhas,Colisão,RS,0
+160,Alta,Analista 1,SIN-007266,0.2504661317313442,34417.81,6034.347013355062,4534.347013355062,Sinistro logo após contratar a apólice,Tipo de sinistro,Incêndio,PR,0
+161,Alta,Analista 1,SIN-009102,0.2253611888018829,38223.0,6029.786503702059,4529.786503702059,Valor do sinistro (e peso sobre o bem),Boletim de ocorrência e testemunhas,Roubo,SP,1
+162,Alta,Analista 2,SIN-009383,0.3750368165159901,22892.45,6009.858099176034,4509.858099176034,Sinistro logo após contratar a apólice,Valor do sinistro (e peso sobre o bem),Colisão,SP,0
+163,Alta,Analista 3,SIN-016444,0.2744277105391779,31270.28,6007.00194382333,4507.00194382333,Atraso para avisar a seguradora,Boletim de ocorrência e testemunhas,Colisão,SP,0
+164,Alta,Analista 4,SIN-005621,0.3149567388686506,26970.74,5946.231420691989,4446.231420691989,Histórico de sinistros,Boletim de ocorrência e testemunhas,Incêndio,BA,0
+165,Alta,Analista 5,SIN-019167,0.3166991509550304,26683.9,5915.537931918255,4415.537931918255,Boletim de ocorrência e testemunhas,Sinistro logo após contratar a apólice,Colisão,PR,0
+166,Alta,Analista 5,SIN-002456,0.3799692031959584,22181.34,5899.758259933048,4399.758259933048,Boletim de ocorrência e testemunhas,Valor do sinistro (e peso sobre o bem),Roubo,MG,1
+167,Alta,Analista 4,SIN-004926,0.2704923099229528,31046.19,5878.428953184814,4378.428953184814,Sinistro logo após contratar a apólice,Score de crédito,Danos naturais,SP,1
+168,Alta,Analista 3,SIN-000434,0.3820272256261243,21980.6,5878.03134491831,4378.03134491831,Histórico de sinistros,Valor do sinistro (e peso sobre o bem),Danos naturais,SP,1
+169,Alta,Analista 2,SIN-001783,0.1403258134391225,59735.5,5867.702840084891,4367.702840084891,Sinistro logo após contratar a apólice,Valor do sinistro (e peso sobre o bem),Roubo,MG,0
+170,Alta,Analista 1,SIN-007594,0.1512597748134763,55185.62,5843.155117899451,4343.155117899451,Valor do sinistro (e peso sobre o bem),Boletim de ocorrência e testemunhas,Colisão,BA,0
+171,Alta,Analista 1,SIN-008040,0.3146013696268075,26420.23,5818.288380698688,4318.288380698688,Sinistro logo após contratar a apólice,Boletim de ocorrência e testemunhas,Colisão,RJ,0
+172,Alta,Analista 2,SIN-008749,0.3119430973924232,26398.59,5764.400551974854,4264.400551974854,Sinistro logo após contratar a apólice,Boletim de ocorrência e testemunhas,Danos naturais,BA,0
+173,Alta,Analista 3,SIN-000755,0.3341936555803849,24606.79,5756.403171539202,4256.403171539202,Sinistro logo após contratar a apólice,Histórico de sinistros,Furto,PR,1
+174,Alta,Analista 4,SIN-007957,0.3333805829658878,24656.93,5754.099188284362,4254.099188284362,Sinistro logo após contratar a apólice,Valor do sinistro (e peso sobre o bem),Roubo,SP,1
+175,Alta,Analista 5,SIN-001358,0.3790769142927783,21434.62,5687.758726046789,4187.758726046789,Valor do sinistro (e peso sobre o bem),Histórico de sinistros,Danos naturais,RS,1
+176,Alta,Analista 5,SIN-014165,0.2597924083977493,31061.48,5648.675688318965,4148.675688318965,Valor do sinistro (e peso sobre o bem),Alterações recentes na apólice,Roubo,SP,1
+177,Alta,Analista 4,SIN-013736,0.4481123407422075,17961.29,5634.072993254723,4134.072993254723,Sinistro logo após contratar a apólice,Boletim de ocorrência e testemunhas,Danos naturais,RJ,0
+178,Alta,Analista 3,SIN-011514,0.2053023376224074,38614.0,5549.281125466147,4049.2811254661474,Atraso para avisar a seguradora,Valor do sinistro (e peso sobre o bem),Colisão,SC,0
+179,Alta,Analista 2,SIN-003615,0.1060704919635325,74661.54,5543.570394988472,4043.570394988472,Alterações recentes na apólice,Oficina,Colisão,RS,0
+180,Alta,Analista 1,SIN-019331,0.1320662202926669,59543.77,5504.6044521131225,4004.6044521131225,Sinistro logo após contratar a apólice,Alterações recentes na apólice,Colisão,PR,0
+181,Alta,Analista 1,SIN-008334,0.2379268378573441,32926.96,5483.945231138678,3983.9452311386776,Sinistro logo após contratar a apólice,Boletim de ocorrência e testemunhas,Roubo,RS,0
+182,Alta,Analista 2,SIN-015112,0.4891888580534095,16012.88,5483.325736942395,3983.3257369423955,Sinistro logo após contratar a apólice,Histórico de sinistros,Colisão,SP,0
+183,Alta,Analista 3,SIN-001351,0.2058607114745032,37878.96,5458.452758859972,3958.452758859972,Valor do sinistro (e peso sobre o bem),Tipo de sinistro,Furto,RJ,0
+184,Alta,Analista 4,SIN-018801,0.1390300867905485,55670.41,5417.903353775794,3917.903353775794,Boletim de ocorrência e testemunhas,Valor do sinistro (e peso sobre o bem),Colisão,SP,0
+185,Alta,Analista 5,SIN-005314,0.2096519111727416,36870.93,5411.042658851461,3911.042658851461,Sinistro logo após contratar a apólice,Tipo de sinistro,Incêndio,BA,0
+186,Alta,Analista 5,SIN-012525,0.1311362583861704,58890.87,5405.90984143446,3905.90984143446,Valor do sinistro (e peso sobre o bem),Tipo de sinistro,Roubo,SC,1
+187,Alta,Analista 4,SIN-003558,0.1938142497863132,39802.42,5399.993320385824,3899.9933203858236,Valor do sinistro (e peso sobre o bem),Sinistro logo após contratar a apólice,Colisão,MG,0
+188,Alta,Analista 3,SIN-004998,0.1642537718306949,46943.95,5397.504596492084,3897.5045964920837,Boletim de ocorrência e testemunhas,Tipo de sinistro,Roubo,SP,0
+189,Alta,Analista 2,SIN-003894,0.2787581141615035,27641.81,5393.765179327412,3893.7651793274117,Sinistro logo após contratar a apólice,Valor do sinistro (e peso sobre o bem),Colisão,SP,0
+190,Alta,Analista 1,SIN-016315,0.334874005944179,22907.39,5369.762618517938,3869.762618517938,Boletim de ocorrência e testemunhas,Alterações recentes na apólice,Roubo,PR,1
+191,Alta,Analista 1,SIN-004136,0.189389068177055,40470.76,5365.303667372062,3865.3036673720617,Boletim de ocorrência e testemunhas,Dados da apólice,Incêndio,PE,0
+192,Alta,Analista 2,SIN-010523,0.2218238748753351,34394.54,5340.671096148295,3840.671096148295,Valor do sinistro (e peso sobre o bem),Oficina,Roubo,SP,0
+193,Alta,Analista 3,SIN-000049,0.3593334814395295,21132.16,5315.444836196017,3815.4448361960167,Valor do sinistro (e peso sobre o bem),Oficina,Roubo,SP,0
+194,Alta,Analista 4,SIN-001365,0.307543078771652,24690.58,5315.391892900443,3815.391892900443,Sinistro logo após contratar a apólice,Valor do sinistro (e peso sobre o bem),Colisão,SP,0
+195,Alta,Analista 5,SIN-014898,0.1658795334931232,45755.18,5312.893539305716,3812.8935393057163,Sinistro logo após contratar a apólice,Valor do sinistro (e peso sobre o bem),Colisão,SP,0
+196,Alta,Analista 5,SIN-015503,0.3038063271870777,24928.1,5301.320153326533,3801.320153326533,Sinistro logo após contratar a apólice,Boletim de ocorrência e testemunhas,Furto,PE,0
+197,Alta,Analista 4,SIN-007997,0.2337668815178953,32306.14,5286.473921176376,3786.4739211763763,Tipo de sinistro,Oficina,Furto,RJ,0
+198,Alta,Analista 3,SIN-017827,0.2901903321321275,25969.61,5275.290825869274,3775.290825869274,Sinistro logo após contratar a apólice,Score de crédito,Colisão,PR,1
+199,Alta,Analista 2,SIN-013325,0.2130284515366364,35352.88,5271.818498632365,3771.818498632365,Valor do sinistro (e peso sobre o bem),Boletim de ocorrência e testemunhas,Incêndio,MG,0
+200,Alta,Analista 1,SIN-010884,0.192354772331681,39082.88,5262.444939126485,3762.444939126485,Sinistro logo após contratar a apólice,Valor do sinistro (e peso sobre o bem),Danos naturais,RS,0
+201,Média,Analista 1,SIN-017249,0.2263546862493768,33118.7,5247.601063241064,3747.6010632410644,Sinistro logo após contratar a apólice,Score de crédito,Roubo,MG,1
+202,Média,Analista 2,SIN-006401,0.3753342832874596,19958.48,5243.771250414968,3743.7712504149677,Boletim de ocorrência e testemunhas,Tipo de sinistro,Furto,RS,0
+203,Média,Analista 3,SIN-006099,0.1263879562180714,58970.08,5217.175522451317,3717.175522451317,Sinistro logo após contratar a apólice,Valor do sinistro (e peso sobre o bem),Colisão,RJ,0
+204,Média,Analista 4,SIN-011781,0.1229460253828241,60482.18,5205.230546241975,3705.2305462419754,Valor do sinistro (e peso sobre o bem),Alterações recentes na apólice,Furto,RJ,0
+205,Média,Analista 5,SIN-002250,0.2120596031900516,34916.47,5183.060941098139,3683.0609410981388,Sinistro logo após contratar a apólice,Valor do sinistro (e peso sobre o bem),Roubo,RS,1
+206,Média,Analista 5,SIN-000568,0.0750007055732645,98066.51,5148.540210175319,3648.540210175319,Histórico de sinistros,Valor do sinistro (e peso sobre o bem),Danos naturais,SC,0
+207,Média,Analista 4,SIN-014088,0.1199603094977275,61310.66,5148.392024376959,3648.392024376959,Valor do sinistro (e peso sobre o bem),Alterações recentes na apólice,Colisão,SP,0
+208,Média,Analista 3,SIN-010829,0.2974355371059941,24681.88,5138.887764209985,3638.887764209985,Boletim de ocorrência e testemunhas,Valor do sinistro (e peso sobre o bem),Colisão,RJ,0
+209,Média,Analista 2,SIN-014051,0.1568840637708377,46593.67,5116.863006918156,3616.8630069181563,Valor do sinistro (e peso sobre o bem),Score de crédito,Colisão,SP,0
+210,Média,Analista 1,SIN-010412,0.1714497240414721,42466.61,5096.621995833773,3596.6219958337733,Valor do sinistro (e peso sobre o bem),Alterações recentes na apólice,Danos naturais,PR,0
+211,Média,Analista 1,SIN-017903,0.260310535764042,27884.96,5081.124214151216,3581.1242141512157,Valor do sinistro (e peso sobre o bem),Alterações recentes na apólice,Danos naturais,RJ,1
+212,Média,Analista 2,SIN-010091,0.3400721508727981,21333.57,5078.467124986779,3578.467124986779,Sinistro logo após contratar a apólice,Alterações recentes na apólice,Furto,BA,0
+213,Média,Analista 3,SIN-012541,0.2473108639429199,29296.09,5071.668929634675,3571.668929634675,Histórico de sinistros,Valor do sinistro (e peso sobre o bem),Furto,PR,1
+214,Média,Analista 4,SIN-005453,0.2312503615720909,31197.5,5050.103208601713,3550.103208601713,Sinistro logo após contratar a apólice,Boletim de ocorrência e testemunhas,Colisão,RS,0
+215,Média,Analista 5,SIN-004561,0.1588453830339706,45163.71,5021.832769929618,3521.832769929618,Valor do sinistro (e peso sobre o bem),Alterações recentes na apólice,Incêndio,PR,0
+216,Média,Analista 5,SIN-009685,0.1508687275713054,47451.96,5011.311778175136,3511.311778175136,Valor do sinistro (e peso sobre o bem),Score de crédito,Colisão,SP,0
+217,Média,Analista 4,SIN-019508,0.1683419222109111,42446.89,5001.91373813257,3501.91373813257,Sinistro logo após contratar a apólice,Oficina,Colisão,RJ,1
+218,Média,Analista 3,SIN-016866,0.326901695293289,21834.96,4996.519808462807,3496.5198084628073,Valor do sinistro (e peso sobre o bem),Boletim de ocorrência e testemunhas,Colisão,RJ,0
+219,Média,Analista 2,SIN-003715,0.1758846216304908,40284.56,4959.804215205562,3459.8042152055623,Sinistro logo após contratar a apólice,Valor do sinistro (e peso sobre o bem),Colisão,SP,0
+220,Média,Analista 1,SIN-016032,0.2532294981428044,27791.04,4926.257778446621,3426.257778446621,Sinistro logo após contratar a apólice,Boletim de ocorrência e testemunhas,Danos naturais,SP,0
+221,Média,Analista 1,SIN-019694,0.1792182112856472,39256.93,4924.889742616103,3424.889742616103,Sinistro logo após contratar a apólice,Tipo de sinistro,Furto,RS,0
+222,Média,Analista 2,SIN-010755,0.1102772025438292,63644.06,4912.942226732132,3412.9422267321324,Score de crédito,Histórico de sinistros,Danos naturais,SP,0
+223,Média,Analista 3,SIN-003935,0.227162935887717,30711.11,4883.498138379437,3383.4981383794366,Boletim de ocorrência e testemunhas,Score de crédito,Colisão,MG,1
+224,Média,Analista 4,SIN-008590,0.1198851791690207,58149.05,4879.84649443084,3379.84649443084,Tipo de sinistro,Oficina,Incêndio,SP,1
+225,Média,Analista 5,SIN-001147,0.2315640466293187,30040.9,4869.47465787069,3369.47465787069,Valor do sinistro (e peso sobre o bem),Boletim de ocorrência e testemunhas,Furto,PR,1
+226,Média,Analista 5,SIN-003458,0.1312923642089003,52800.2,4852.584162091945,3352.5841620919446,Score de crédito,Alterações recentes na apólice,Danos naturais,BA,1
+227,Média,Analista 4,SIN-006795,0.1693612605684032,40827.6,4840.229661387777,3340.229661387777,Valor do sinistro (e peso sobre o bem),Alterações recentes na apólice,Colisão,SP,0
+228,Média,Analista 3,SIN-004051,0.3346421694019488,20622.32,4830.768532030837,3330.7685320308374,Histórico de sinistros,Valor do sinistro (e peso sobre o bem),Colisão,SP,0
+229,Média,Analista 2,SIN-016086,0.1507590668847517,45753.74,4828.453804221277,3328.453804221277,Sinistro logo após contratar a apólice,Oficina,Colisão,SP,0
+230,Média,Analista 1,SIN-007840,0.2860236956544133,24065.17,4818.246201966202,3318.2462019662016,Boletim de ocorrência e testemunhas,Sinistro logo após contratar a apólice,Incêndio,RJ,0
+231,Média,Analista 1,SIN-018354,0.1305940501739529,52662.79,4814.2129276922415,3314.2129276922415,Valor do sinistro (e peso sobre o bem),Score de crédito,Colisão,BA,0
+232,Média,Analista 2,SIN-009150,0.2198785156628015,31057.46,4780.207743539781,3280.2077435397814,Sinistro logo após contratar a apólice,Valor do sinistro (e peso sobre o bem),Colisão,MG,0
+233,Média,Analista 3,SIN-017722,0.2353602214370873,28923.22,4765.162824711514,3265.162824711514,Valor do sinistro (e peso sobre o bem),Oficina,Roubo,PR,1
+234,Média,Analista 4,SIN-014259,0.2695768606024469,24958.99,4709.856317605507,3209.856317605507,Sinistro logo após contratar a apólice,Valor do sinistro (e peso sobre o bem),Colisão,PR,1
+235,Média,Analista 5,SIN-019403,0.2586210298085125,25944.72,4696.895143145457,3196.895143145457,Sinistro logo após contratar a apólice,Valor do sinistro (e peso sobre o bem),Danos naturais,SC,0
+236,Média,Analista 5,SIN-005829,0.2470546964664216,27148.64,4695.039310273307,3195.039310273307,Sinistro logo após contratar a apólice,Valor do sinistro (e peso sobre o bem),Colisão,MG,1
+237,Média,Analista 4,SIN-014777,0.2502912135365052,26795.98,4694.758846469946,3194.7588464699456,Sinistro logo após contratar a apólice,Valor do sinistro (e peso sobre o bem),Roubo,BA,1
+238,Média,Analista 3,SIN-014014,0.2026471682465953,33073.13,4691.5232976860625,3191.5232976860625,Sinistro logo após contratar a apólice,Valor do sinistro (e peso sobre o bem),Colisão,MG,1
+239,Média,Analista 2,SIN-008615,0.1834420704113208,36498.17,4686.709909717049,3186.7099097170494,Alterações recentes na apólice,Valor do sinistro (e peso sobre o bem),Colisão,RJ,0
+240,Média,Analista 1,SIN-011022,0.0717797101042298,92999.67,4672.842546672326,3172.8425466723256,Valor do sinistro (e peso sobre o bem),Histórico de sinistros,Colisão,BA,0
+241,Média,Analista 1,SIN-009641,0.2234020597633245,29783.71,4657.619512975468,3157.619512975468,Boletim de ocorrência e testemunhas,Valor do sinistro (e peso sobre o bem),Roubo,RJ,1
+242,Média,Analista 2,SIN-011302,0.1431798000646983,46421.8,4652.664829850388,3152.664829850388,Sinistro logo após contratar a apólice,Tipo de sinistro,Roubo,RS,0
+243,Média,Analista 3,SIN-007467,0.3075412308433076,21590.47,4647.971802799855,3147.971802799855,Sinistro logo após contratar a apólice,Boletim de ocorrência e testemunhas,Furto,MG,0
+244,Média,Analista 4,SIN-002221,0.4542967388924977,14586.52,4638.625927453137,3138.6259274531367,Sinistro logo após contratar a apólice,Histórico de sinistros,Colisão,SP,0
+245,Média,Analista 5,SIN-019484,0.2122454771275906,31044.47,4612.33384312622,3112.33384312622,Sinistro logo após contratar a apólice,Valor do sinistro (e peso sobre o bem),Colisão,SP,1
+246,Média,Analista 5,SIN-018777,0.3254317043042034,20233.42,4609.217448151928,3109.217448151928,Sinistro logo após contratar a apólice,Valor do sinistro (e peso sobre o bem),Furto,PE,0
+247,Média,Analista 4,SIN-012399,0.2272777890357593,28945.43,4605.057333162536,3105.0573331625365,Sinistro logo após contratar a apólice,Oficina,Danos naturais,BA,0
+248,Média,Analista 3,SIN-010768,0.0694488834872103,94344.25,4586.471978156768,3086.4719781567683,Dados da apólice,Oficina,Colisão,SP,0
+249,Média,Analista 2,SIN-001190,0.2725835997459172,23982.59,4576.0824994013055,3076.0824994013055,Valor do sinistro (e peso sobre o bem),Boletim de ocorrência e testemunhas,Roubo,SP,1
+250,Média,Analista 1,SIN-006096,0.1364764054814441,47793.57,4565.886247108047,3065.8862471080474,Score de crédito,Valor do sinistro (e peso sobre o bem),Roubo,MG,0
+251,Média,Analista 1,SIN-009105,0.1539991857451134,41978.53,4525.26160714377,3025.2616071437697,Valor do sinistro (e peso sobre o bem),Boletim de ocorrência e testemunhas,Colisão,SC,1
+252,Média,Analista 2,SIN-008445,0.1181824539812855,54561.99,4513.788910611652,3013.7889106116518,Sinistro logo após contratar a apólice,Valor do sinistro (e peso sobre o bem),Colisão,PE,0
+253,Média,Analista 3,SIN-005734,0.2520387893896917,25537.03,4505.425488065766,3005.4254880657663,Sinistro logo após contratar a apólice,Tipo de sinistro,Roubo,SP,1
+254,Média,Analista 4,SIN-007253,0.1629103047326356,39484.93,4502.751385052749,3002.7513850527494,Sinistro logo após contratar a apólice,Valor do sinistro (e peso sobre o bem),Colisão,RJ,1
+255,Média,Analista 5,SIN-003183,0.1998925582257643,32123.36,4494.854426445031,2994.854426445031,Sinistro logo após contratar a apólice,Valor do sinistro (e peso sobre o bem),Colisão,PE,1
+256,Média,Analista 5,SIN-002201,0.1619870642967085,39499.56,4478.892435788186,2978.892435788186,Sinistro logo após contratar a apólice,Histórico de sinistros,Colisão,SP,1
+257,Média,Analista 4,SIN-010520,0.273221075969902,23393.63,4474.142931609245,2974.1429316092454,Score de crédito,Valor do sinistro (e peso sobre o bem),Colisão,RS,0
+258,Média,Analista 3,SIN-018803,0.0878340437193033,72555.42,4460.985152646688,2960.985152646688,Sinistro logo após contratar a apólice,Valor do sinistro (e peso sobre o bem),Colisão,PR,0
+259,Média,Analista 2,SIN-008381,0.2910492340473836,21798.27,4441.058850940642,2941.0588509406416,Sinistro logo após contratar a apólice,Alterações recentes na apólice,Colisão,RS,0
+260,Média,Analista 1,SIN-017453,0.1508977449321619,41899.8,4425.809733176018,2925.809733176018,Valor do sinistro (e peso sobre o bem),Tipo de sinistro,Incêndio,SP,0
+261,Média,Analista 1,SIN-002823,0.1582426589053972,39854.25,4414.649742076299,2914.649742076299,Tipo de sinistro,Valor do sinistro (e peso sobre o bem),Furto,PE,1
+262,Média,Analista 2,SIN-005640,0.3471187928718617,18076.77,4392.350606995598,2892.3506069955984,Boletim de ocorrência e testemunhas,Sinistro logo após contratar a apólice,Roubo,PE,0
+263,Média,Analista 3,SIN-007865,0.0961372716347799,64991.72,4373.68864775609,2873.68864775609,Valor do sinistro (e peso sobre o bem),Tipo de sinistro,Roubo,RS,0
+264,Média,Analista 4,SIN-006531,0.1222741712474392,50764.67,4345.045567029817,2845.045567029817,Boletim de ocorrência e testemunhas,Valor do sinistro (e peso sobre o bem),Colisão,RS,0
+265,Média,Analista 5,SIN-016154,0.0802955457064357,77161.43,4337.003390537257,2837.0033905372566,Valor do sinistro (e peso sobre o bem),Alterações recentes na apólice,Colisão,PE,0
+266,Média,Analista 5,SIN-003956,0.2635156499786321,23508.28,4336.359778855774,2836.3597788557736,Valor do sinistro (e peso sobre o bem),Boletim de ocorrência e testemunhas,Colisão,SC,1
+267,Média,Analista 4,SIN-013332,0.1605504235530757,38464.38,4322.830750494517,2822.830750494517,Valor do sinistro (e peso sobre o bem),Oficina,Roubo,RJ,0
+268,Média,Analista 3,SIN-019200,0.0595753679307069,102913.09,4291.759641145166,2791.759641145166,Oficina,Histórico de sinistros,Colisão,MG,0
+269,Média,Analista 2,SIN-012030,0.1628355088952052,37611.68,4287.161937242528,2787.1619372425284,Sinistro logo após contratar a apólice,Tipo de sinistro,Incêndio,SP,0
+270,Média,Analista 1,SIN-002676,0.2077191710580795,29470.39,4285.095487090821,2785.095487090821,Histórico de sinistros,Sinistro logo após contratar a apólice,Roubo,MG,0
+271,Média,Analista 1,SIN-014693,0.224437547748068,27261.71,4282.985937873288,2782.985937873288,Sinistro logo após contratar a apólice,Valor do sinistro (e peso sobre o bem),Colisão,SP,1
+272,Média,Analista 2,SIN-005729,0.2135154364005158,28624.68,4278.267729417581,2778.267729417581,Sinistro logo após contratar a apólice,Valor do sinistro (e peso sobre o bem),Danos naturais,SP,0
+273,Média,Analista 3,SIN-004485,0.3655913216211841,16624.36,4254.405220454443,2754.405220454443,Boletim de ocorrência e testemunhas,Valor do sinistro (e peso sobre o bem),Colisão,BA,1
+274,Média,Analista 4,SIN-012528,0.2888000661467553,20997.39,4244.8333346364525,2744.8333346364525,Histórico de sinistros,Oficina,Roubo,PR,0
+275,Média,Analista 5,SIN-009591,0.157424937066541,38456.42,4237.799648813128,2737.7996488131284,Valor do sinistro (e peso sobre o bem),Histórico de sinistros,Colisão,RJ,0
+276,Média,Analista 5,SIN-013162,0.1564397616170517,38635.84,4230.927119632185,2730.927119632185,Boletim de ocorrência e testemunhas,Valor do sinistro (e peso sobre o bem),Colisão,BA,0
+277,Média,Analista 4,SIN-016319,0.1591633306353534,37952.91,4228.498094032668,2728.4980940326677,Sinistro logo após contratar a apólice,Valor do sinistro (e peso sobre o bem),Incêndio,RS,0
+278,Média,Analista 3,SIN-002979,0.316160758598856,19089.97,4224.849577780583,2724.849577780583,Boletim de ocorrência e testemunhas,Sinistro logo após contratar a apólice,Colisão,MG,1
+279,Média,Analista 2,SIN-012389,0.3107961847233599,19305.44,4200.039967484018,2700.0399674840182,Sinistro logo após contratar a apólice,Boletim de ocorrência e testemunhas,Colisão,SC,0
+280,Média,Analista 1,SIN-003276,0.4172916268230914,14311.56,4180.465908343397,2680.465908343397,Sinistro logo após contratar a apólice,Valor do sinistro (e peso sobre o bem),Roubo,SP,1
+281,Média,Analista 1,SIN-008846,0.1435196863594246,41592.1,4178.499602920876,2678.499602920876,Sinistro logo após contratar a apólice,Alterações recentes na apólice,Colisão,SP,1
+282,Média,Analista 2,SIN-011958,0.275003547993982,21673.39,4172.181402940103,2672.181402940103,Valor do sinistro (e peso sobre o bem),Histórico de sinistros,Colisão,RS,1
+283,Média,Analista 3,SIN-000456,0.2376953445965431,24927.04,4147.52895380027,2647.52895380027,Sinistro logo após contratar a apólice,Boletim de ocorrência e testemunhas,Danos naturais,SP,0
+284,Média,Analista 4,SIN-006925,0.3471518226577716,17058.15,4145.237504568767,2645.237504568767,Sinistro logo após contratar a apólice,Boletim de ocorrência e testemunhas,Incêndio,SP,0
+285,Média,Analista 5,SIN-007630,0.5481338736478724,10710.62,4109.597540839262,2609.5975408392624,Valor do sinistro (e peso sobre o bem),Histórico de sinistros,Furto,BA,1
+286,Média,Analista 5,SIN-006138,0.1278921000413841,45889.49,4108.232272149667,2608.2322721496666,Valor do sinistro (e peso sobre o bem),Tipo de sinistro,Incêndio,RS,0
+287,Média,Analista 4,SIN-015771,0.1558852687018432,37509.2,4092.992204553823,2592.992204553823,Boletim de ocorrência e testemunhas,Tipo de sinistro,Furto,SP,0
+288,Média,Analista 3,SIN-014360,0.1459050905300591,39957.81,4081.03351980303,2581.03351980303,Sinistro logo após contratar a apólice,Valor do sinistro (e peso sobre o bem),Colisão,PE,1
+289,Média,Analista 2,SIN-004203,0.0907281008956463,63849.67,4055.0715113396036,2555.0715113396036,Valor do sinistro (e peso sobre o bem),Boletim de ocorrência e testemunhas,Roubo,SC,1
+290,Média,Analista 1,SIN-003074,0.2806200194418902,20632.05,4052.836390488235,2552.836390488235,Sinistro logo após contratar a apólice,Boletim de ocorrência e testemunhas,Furto,SP,0
+291,Média,Analista 1,SIN-014070,0.2886208307523971,19931.87,4026.927014494146,2526.927014494146,Sinistro logo após contratar a apólice,Valor do sinistro (e peso sobre o bem),Colisão,SP,1
+292,Média,Analista 2,SIN-007496,0.134375141287396,42787.5,4024.7034504841195,2524.7034504841195,Sinistro logo após contratar a apólice,Dados da apólice,Colisão,SC,0
+293,Média,Analista 3,SIN-002884,0.0994539008505159,57680.39,4015.577851655362,2515.577851655362,Oficina,Tipo de sinistro,Roubo,RJ,0
+294,Média,Analista 4,SIN-015964,0.2673988449023426,21379.99,4001.8892410165454,2501.8892410165454,Valor do sinistro (e peso sobre o bem),Score de crédito,Roubo,PR,0
+295,Média,Analista 5,SIN-009651,0.28345724333533,20117.99,3991.8129907934153,2491.8129907934153,Valor do sinistro (e peso sobre o bem),Tipo de sinistro,Incêndio,PE,0
+296,Média,Analista 5,SIN-012009,0.2823526570494241,20153.48,3983.2720387546988,2483.2720387546988,Boletim de ocorrência e testemunhas,Tipo de sinistro,Incêndio,RJ,0
+297,Média,Analista 4,SIN-005047,0.1785893715892892,31859.75,3982.868912044299,2482.868912044299,Valor do sinistro (e peso sobre o bem),Oficina,Roubo,RS,1
+298,Média,Analista 3,SIN-008001,0.2746004650325217,20553.56,3950.811993851686,2450.811993851686,Sinistro logo após contratar a apólice,Valor do sinistro (e peso sobre o bem),Roubo,SP,0
+299,Média,Analista 2,SIN-002447,0.1440571165934798,39093.57,3942.194880081755,2442.194880081755,Sinistro logo após contratar a apólice,Valor do sinistro (e peso sobre o bem),Furto,RJ,0
+300,Média,Analista 1,SIN-019997,0.2717906654836166,20715.01,3941.10244737984,2441.10244737984,Sinistro logo após contratar a apólice,Histórico de sinistros,Danos naturais,PR,0
+301,Média,Analista 1,SIN-003425,0.4095752504547279,13743.08,3940.177803113553,2440.177803113553,Sinistro logo após contratar a apólice,Boletim de ocorrência e testemunhas,Incêndio,MG,0
+302,Média,Analista 2,SIN-002626,0.1034617229098856,54315.55,3933.706268658626,2433.706268658626,Tipo de sinistro,Valor do sinistro (e peso sobre o bem),Furto,PR,1
+303,Média,Analista 3,SIN-015440,0.2061839002110188,27163.84,3920.522533135656,2420.522533135656,Histórico de sinistros,Tipo de sinistro,Furto,RJ,0
+304,Média,Analista 4,SIN-009925,0.1598166557297665,34803.57,3893.53311539978,2393.53311539978,Sinistro logo após contratar a apólice,Tipo de sinistro,Furto,RJ,0
+305,Média,Analista 5,SIN-011241,0.1364501859965776,40751.47,3892.3819627937664,2392.3819627937664,Boletim de ocorrência e testemunhas,Score de crédito,Roubo,SP,0
+306,Média,Analista 5,SIN-010584,0.1065013721600049,52075.12,3882.25021477784,2382.25021477784,Histórico de sinistros,Valor do sinistro (e peso sobre o bem),Roubo,SP,0
+307,Média,Analista 4,SIN-002633,0.2078778294847869,26421.06,3844.646823841126,2344.646823841126,Sinistro logo após contratar a apólice,Score de crédito,Roubo,BA,0
+308,Média,Analista 3,SIN-008359,0.1524705371700266,35904.85,3832.1022365564604,2332.1022365564604,Boletim de ocorrência e testemunhas,Valor do sinistro (e peso sobre o bem),Colisão,RS,0
+309,Média,Analista 2,SIN-018996,0.1714079014175995,31937.27,3832.010299395081,2332.010299395081,Sinistro logo após contratar a apólice,Oficina,Roubo,SP,0
+310,Média,Analista 1,SIN-013279,0.1819775789250512,30060.54,3829.241003265761,2329.241003265761,Sinistro logo após contratar a apólice,Valor do sinistro (e peso sobre o bem),Colisão,RS,0
+311,Média,Analista 1,SIN-019266,0.4678848465953243,11588.6,3795.491233278203,2295.491233278203,Histórico de sinistros,Sinistro logo após contratar a apólice,Incêndio,RS,0
+312,Média,Analista 2,SIN-001731,0.065715261825088,82480.16,3794.143716842605,2294.143716842605,Boletim de ocorrência e testemunhas,Valor do sinistro (e peso sobre o bem),Colisão,MG,0
+313,Média,Analista 3,SIN-008322,0.2713425260161845,19909.84,3781.67039472465,2281.67039472465,Boletim de ocorrência e testemunhas,Score de crédito,Roubo,SP,0
+314,Média,Analista 4,SIN-009788,0.1242521878193953,43411.35,3775.768649585454,2275.768649585454,Sinistro logo após contratar a apólice,Tipo de sinistro,Roubo,SP,0
+315,Média,Analista 5,SIN-012646,0.1466524064217833,36774.16,3775.11334069778,2275.11334069778,Valor do sinistro (e peso sobre o bem),Score de crédito,Colisão,SP,0
+316,Média,Analista 5,SIN-000055,0.20017246451778,26936.42,3774.3507036802134,2274.3507036802134,Boletim de ocorrência e testemunhas,Valor do sinistro (e peso sobre o bem),Furto,SP,1
+317,Média,Analista 4,SIN-006218,0.1236334916313275,43425.64,3758.204449667528,2258.204449667528,Sinistro logo após contratar a apólice,Valor do sinistro (e peso sobre o bem),Colisão,PE,1
+318,Média,Analista 3,SIN-008546,0.266294770479121,20089.04,3744.724407162116,2244.724407162116,Boletim de ocorrência e testemunhas,Valor do sinistro (e peso sobre o bem),Furto,RJ,0
+319,Média,Analista 2,SIN-015796,0.1815511854090523,29439.51,3741.344556853154,2241.344556853154,Alterações recentes na apólice,Histórico de sinistros,Colisão,PR,0
+320,Média,Analista 1,SIN-018505,0.1833544859863657,29099.43,3734.8577211023603,2234.8577211023603,Sinistro logo após contratar a apólice,Valor do sinistro (e peso sobre o bem),Colisão,MG,0
+321,Média,Analista 1,SIN-002732,0.1943554969008185,27362.74,3722.6692504875314,2222.6692504875314,Boletim de ocorrência e testemunhas,Sinistro logo após contratar a apólice,Furto,SC,0
+322,Média,Analista 2,SIN-011401,0.1706895225875285,31137.58,3720.4010653116834,2220.4010653116834,Sinistro logo após contratar a apólice,Histórico de sinistros,Danos naturais,SP,0
+323,Média,Analista 3,SIN-008344,0.2573230947433461,20648.06,3719.2558897524063,2219.2558897524063,Sinistro logo após contratar a apólice,Valor do sinistro (e peso sobre o bem),Incêndio,PR,0
+324,Média,Analista 4,SIN-003390,0.3312390936264922,15913.0,3689.7053878148586,2189.7053878148586,Sinistro logo após contratar a apólice,Valor do sinistro (e peso sobre o bem),Danos naturais,PR,0
+325,Média,Analista 5,SIN-014819,0.1573335799580807,33408.35,3679.378714194781,2179.378714194781,Sinistro logo após contratar a apólice,Valor do sinistro (e peso sobre o bem),Colisão,SP,0
+326,Média,Analista 5,SIN-013876,0.1269781070158088,41178.9,3660.173139695302,2160.173139695302,Sinistro logo após contratar a apólice,Alterações recentes na apólice,Colisão,SC,1
+327,Média,Analista 4,SIN-004210,0.3806520090488455,13695.22,3649.1791051561504,2149.1791051561504,Sinistro logo após contratar a apólice,Oficina,Roubo,BA,1
+328,Média,Analista 3,SIN-008356,0.2149281018388635,24215.46,3643.2079970684476,2143.2079970684476,Sinistro logo após contratar a apólice,Valor do sinistro (e peso sobre o bem),Roubo,PE,0
+329,Média,Analista 2,SIN-012501,0.2219381507692159,23426.79,3639.508915741131,2139.508915741131,Alterações recentes na apólice,Valor do sinistro (e peso sobre o bem),Danos naturais,RJ,0
+330,Média,Analista 1,SIN-004957,0.080396713563024,64587.2,3634.81903276642,2134.81903276642,Sinistro logo após contratar a apólice,Score de crédito,Colisão,PE,0
+331,Média,Analista 1,SIN-018397,0.1776994770476153,29202.85,3632.531821309966,2132.531821309966,Oficina,Tipo de sinistro,Roubo,PR,0
+332,Média,Analista 2,SIN-017384,0.0975490452521433,52847.87,3608.68148347657,2108.68148347657,Valor do sinistro (e peso sobre o bem),Histórico de sinistros,Danos naturais,PR,0
+333,Média,Analista 3,SIN-005998,0.1087248862847637,47374.52,3605.552509856684,2105.552509856684,Tipo de sinistro,Oficina,Furto,BA,0
+334,Média,Analista 4,SIN-011468,0.1665454486626437,30895.95,3601.905898226025,2101.905898226025,Valor do sinistro (e peso sobre o bem),Tipo de sinistro,Incêndio,RJ,0
+335,Média,Analista 5,SIN-003665,0.1290265971228024,39858.68,3599.980892344691,2099.980892344691,Tipo de sinistro,Oficina,Furto,RJ,0
+336,Média,Analista 5,SIN-008923,0.1236988828554403,41517.41,3594.9600652359004,2094.9600652359004,Boletim de ocorrência e testemunhas,Tipo de sinistro,Furto,MG,0
+337,Média,Analista 4,SIN-010149,0.2517674283329289,20395.31,3594.412324127008,2094.412324127008,Sinistro logo após contratar a apólice,Valor do sinistro (e peso sobre o bem),Danos naturais,PR,0
+338,Média,Analista 3,SIN-008353,0.0888624423404605,57278.23,3562.9183875170447,2062.9183875170447,Valor do sinistro (e peso sobre o bem),Histórico de sinistros,Danos naturais,BA,0
+339,Média,Analista 2,SIN-017791,0.1485180032206141,34234.18,3559.0744388465578,2059.0744388465578,Sinistro logo após contratar a apólice,Valor do sinistro (e peso sobre o bem),Colisão,MG,0
+340,Média,Analista 1,SIN-005292,0.294474073115058,17260.21,3557.8790390648783,2057.8790390648783,Sinistro logo após contratar a apólice,Valor do sinistro (e peso sobre o bem),Incêndio,BA,0
+341,Média,Analista 1,SIN-007719,0.0589905238295279,86047.06,3553.1728003735716,2053.1728003735716,Valor do sinistro (e peso sobre o bem),Tipo de sinistro,Roubo,MG,0
+342,Média,Analista 2,SIN-013866,0.2079700018059459,24374.45,3548.408087363257,2048.408087363257,Sinistro logo após contratar a apólice,Tipo de sinistro,Furto,SP,0
+343,Média,Analista 3,SIN-015508,0.2921692573391381,17323.24,3542.922715855356,2042.9227158553558,Histórico de sinistros,Alterações recentes na apólice,Roubo,SP,1
+344,Média,Analista 4,SIN-012265,0.1001616418231037,50455.62,3537.6024168818394,2037.6024168818394,Oficina,Tipo de sinistro,Roubo,SP,1
+345,Média,Analista 5,SIN-003418,0.1077190189052779,46899.72,3536.394277732568,2036.3942777325678,Sinistro logo após contratar a apólice,Valor do sinistro (e peso sobre o bem),Colisão,RS,0
+346,Média,Analista 5,SIN-011917,0.143808285132046,34833.77,3506.5693098688766,2006.5693098688766,Boletim de ocorrência e testemunhas,Sinistro logo após contratar a apólice,Colisão,SP,0
+347,Média,Analista 4,SIN-003752,0.3315997359100124,15080.67,3500.5223325422326,2000.5223325422326,Atraso para avisar a seguradora,Sinistro logo após contratar a apólice,Roubo,SC,1
+348,Média,Analista 3,SIN-003608,0.1034472063930791,48226.71,3492.2428961204196,1992.2428961204196,Valor do sinistro (e peso sobre o bem),Score de crédito,Colisão,MG,0
+349,Média,Analista 2,SIN-012173,0.2506885522732785,19891.92,3490.673638715112,1990.6736387151118,Sinistro logo após contratar a apólice,Valor do sinistro (e peso sobre o bem),Colisão,PE,0
+350,Média,Analista 1,SIN-011301,0.1187285052829242,41752.7,3470.064963768444,1970.0649637684442,Valor do sinistro (e peso sobre o bem),Tipo de sinistro,Incêndio,PR,0
+351,Média,Analista 1,SIN-000987,0.1326104702963084,37365.23,3468.5145061208123,1968.5145061208123,Sinistro logo após contratar a apólice,Oficina,Colisão,PR,0
+352,Média,Analista 2,SIN-011496,0.1283602744286009,38597.35,3468.056506751731,1968.056506751731,Sinistro logo após contratar a apólice,Boletim de ocorrência e testemunhas,Colisão,MG,0
+353,Média,Analista 3,SIN-010986,0.2705459542641916,18226.19,3451.715376305326,1951.7153763053261,Boletim de ocorrência e testemunhas,Histórico de sinistros,Incêndio,BA,0
+354,Média,Analista 4,SIN-016843,0.1738131174627734,28338.61,3447.935504063207,1947.9355040632072,Valor do sinistro (e peso sobre o bem),Boletim de ocorrência e testemunhas,Colisão,MG,1
+355,Média,Analista 5,SIN-003186,0.1197054115655262,40972.75,3433.2619312049897,1933.2619312049897,Sinistro logo após contratar a apólice,Valor do sinistro (e peso sobre o bem),Colisão,SP,0
+356,Média,Analista 5,SIN-008117,0.3167921010274186,15469.96,3430.532791847087,1930.532791847087,Sinistro logo após contratar a apólice,Score de crédito,Furto,SP,1
+357,Média,Analista 4,SIN-000391,0.2432614875559708,20145.89,3430.5034186772696,1930.5034186772696,Sinistro logo após contratar a apólice,Valor do sinistro (e peso sobre o bem),Roubo,BA,1
+358,Média,Analista 3,SIN-001218,0.2655359874435398,18418.2,3423.486446752823,1923.4864467528232,Valor do sinistro (e peso sobre o bem),Tipo de sinistro,Furto,SP,1
+359,Média,Analista 2,SIN-010448,0.1059307487752754,46100.26,3418.4045423744146,1918.4045423744146,Sinistro logo após contratar a apólice,Valor do sinistro (e peso sobre o bem),Colisão,RJ,0
+360,Média,Analista 1,SIN-000868,0.1224443336093377,39784.34,3409.956899571122,1909.956899571122,Valor do sinistro (e peso sobre o bem),Boletim de ocorrência e testemunhas,Colisão,RJ,0
+361,Média,Analista 1,SIN-000778,0.2352683462501266,20696.54,3408.4685172297163,1908.4685172297163,Sinistro logo após contratar a apólice,Tipo de sinistro,Furto,RJ,1
+362,Média,Analista 2,SIN-010534,0.1580684057205324,30800.17,3407.9736374749587,1907.9736374749587,Valor do sinistro (e peso sobre o bem),Oficina,Roubo,SP,0
+363,Média,Analista 3,SIN-012151,0.3012851960309177,16155.78,3407.2481410326654,1907.2481410326654,Sinistro logo após contratar a apólice,Score de crédito,Roubo,RJ,0
+364,Média,Analista 4,SIN-005902,0.0938202298950461,51765.7,3399.668912274591,1899.668912274591,Valor do sinistro (e peso sobre o bem),Tipo de sinistro,Roubo,SP,0
+365,Média,Analista 5,SIN-003096,0.1253654388110583,38620.75,3389.1950896735257,1889.1950896735257,Boletim de ocorrência e testemunhas,Dados da apólice,Colisão,PR,0
+366,Média,Analista 5,SIN-000901,0.0519547869403507,93180.2,3388.8102066414863,1888.8102066414863,Valor do sinistro (e peso sobre o bem),Tipo de sinistro,Roubo,SP,0
+367,Média,Analista 4,SIN-005352,0.4681935841547626,10324.88,3383.8298012174773,1883.8298012174773,Boletim de ocorrência e testemunhas,Sinistro logo após contratar a apólice,Colisão,SC,1
+368,Média,Analista 3,SIN-010163,0.0787871484235067,61318.3,3381.765802223978,1881.765802223978,Oficina,Tipo de sinistro,Roubo,SP,0
+369,Média,Analista 2,SIN-017604,0.1617295128561128,29853.02,3379.680067318655,1879.680067318655,Valor do sinistro (e peso sobre o bem),Tipo de sinistro,Furto,SP,1
+370,Média,Analista 1,SIN-007563,0.2155318788944166,22320.14,3367.4911979704966,1867.4911979704966,Histórico de sinistros,Valor do sinistro (e peso sobre o bem),Colisão,SP,0
+371,Média,Analista 1,SIN-015755,0.2043279212821932,23531.56,3365.7083175290445,1865.7083175290445,Sinistro logo após contratar a apólice,Boletim de ocorrência e testemunhas,Roubo,MG,0
+372,Média,Analista 2,SIN-013804,0.1037546213957437,46060.24,3345.2739338179626,1845.2739338179626,Tipo de sinistro,Oficina,Furto,SP,0
+373,Média,Analista 3,SIN-018320,0.3816652861226886,12487.07,3336.116801068828,1836.116801068828,Boletim de ocorrência e testemunhas,Valor do sinistro (e peso sobre o bem),Furto,SP,1
+374,Média,Analista 4,SIN-012603,0.1677974639452272,28350.91,3330.047558977567,1830.047558977567,Boletim de ocorrência e testemunhas,Tipo de sinistro,Incêndio,SP,0
+375,Média,Analista 5,SIN-003454,0.2423661961597437,19614.24,3327.6801175550036,1827.6801175550036,Boletim de ocorrência e testemunhas,Oficina,Colisão,PE,0
+376,Média,Analista 5,SIN-018165,0.1279945934012401,37096.19,3323.678229049604,1823.678229049604,Sinistro logo após contratar a apólice,Valor do sinistro (e peso sobre o bem),Colisão,RJ,0
+377,Média,Analista 4,SIN-003753,0.1363298437613964,34795.89,3320.6027730671144,1820.6027730671144,Sinistro logo após contratar a apólice,Valor do sinistro (e peso sobre o bem),Colisão,RJ,0
+378,Média,Analista 3,SIN-008794,0.0929439737850434,51005.89,3318.483072129965,1818.483072129965,Valor do sinistro (e peso sobre o bem),Tipo de sinistro,Furto,SP,0
+379,Média,Analista 2,SIN-006129,0.1621143286147384,29236.0,3317.7021579663437,1817.7021579663437,Sinistro logo após contratar a apólice,Tipo de sinistro,Roubo,RJ,0
+380,Média,Analista 1,SIN-012419,0.1311756552100483,36083.54,3313.2974012585896,1813.2974012585896,Sinistro logo após contratar a apólice,Valor do sinistro (e peso sobre o bem),Danos naturais,RS,0
+381,Média,Analista 1,SIN-008664,0.2030382035496032,23213.56,3299.2676642736487,1799.2676642736487,Histórico de sinistros,Valor do sinistro (e peso sobre o bem),Furto,RS,1
+382,Média,Analista 2,SIN-010033,0.0874827607039575,53754.3,3291.80219459612,1791.80219459612,Valor do sinistro (e peso sobre o bem),Oficina,Roubo,SP,0
+383,Média,Analista 3,SIN-002629,0.2695774326211238,17412.91,3285.889300583885,1785.889300583885,Sinistro logo após contratar a apólice,Histórico de sinistros,Incêndio,SP,1
+384,Média,Analista 4,SIN-000617,0.1997524547494209,23465.71,3281.133222456623,1781.1332224566231,Sinistro logo após contratar a apólice,Oficina,Colisão,MG,0
+385,Média,Analista 5,SIN-016093,0.1235838722613816,37799.55,3269.990331116395,1769.9903311163948,Boletim de ocorrência e testemunhas,Valor do sinistro (e peso sobre o bem),Danos naturais,SP,0
+386,Média,Analista 5,SIN-005196,0.1350837130486612,34579.43,3269.782459654387,1769.782459654387,Valor do sinistro (e peso sobre o bem),Score de crédito,Colisão,PR,0
+387,Média,Analista 4,SIN-012329,0.2466377459361855,18917.63,3266.0611351583325,1766.0611351583325,Sinistro logo após contratar a apólice,Tipo de sinistro,Incêndio,MG,0
+388,Média,Analista 3,SIN-000499,0.1805998514365165,25823.62,3264.619354887139,1764.6193548871388,Boletim de ocorrência e testemunhas,Sinistro logo após contratar a apólice,Colisão,PE,0
+389,Média,Analista 2,SIN-014031,0.1639722072818766,28423.85,3262.504996764277,1762.5049967642772,Sinistro logo após contratar a apólice,Tipo de sinistro,Incêndio,SC,0
+390,Média,Analista 1,SIN-014239,0.1776529258293545,26060.83,3240.8478893289916,1740.8478893289916,Sinistro logo após contratar a apólice,Tipo de sinistro,Furto,PE,0
+391,Média,Analista 1,SIN-006141,0.1783027936588692,25933.15,3236.7671653621524,1736.7671653621524,Sinistro logo após contratar a apólice,Alterações recentes na apólice,Furto,SP,1
+392,Média,Analista 2,SIN-011580,0.1609126087457118,28695.59,3232.2375724781523,1732.2375724781523,Boletim de ocorrência e testemunhas,Dados da apólice,Colisão,RJ,0
+393,Média,Analista 3,SIN-010139,0.0526922670157818,87549.48,3229.2264040769933,1729.2264040769933,Valor do sinistro (e peso sobre o bem),Score de crédito,Colisão,BA,0
+394,Média,Analista 4,SIN-013461,0.1716849183706627,26854.83,3227.3985074856164,1727.3985074856164,Sinistro logo após contratar a apólice,Valor do sinistro (e peso sobre o bem),Furto,PE,0
+395,Média,Analista 5,SIN-000103,0.1121111169348825,41048.62,3221.4046457848895,1721.4046457848895,Valor do sinistro (e peso sobre o bem),Alterações recentes na apólice,Colisão,MG,1
+396,Média,Analista 5,SIN-000660,0.2229971128753196,20616.94,3218.2626674265834,1718.2626674265834,Sinistro logo após contratar a apólice,Valor do sinistro (e peso sobre o bem),Colisão,SP,0
+397,Média,Analista 4,SIN-006697,0.0771345279085451,59508.22,3213.0969194644886,1713.0969194644886,Valor do sinistro (e peso sobre o bem),Tipo de sinistro,Roubo,RS,1
+398,Média,Analista 3,SIN-008148,0.1932368090536141,23737.17,3210.826490734223,1710.8264907342232,Sinistro logo após contratar a apólice,Tipo de sinistro,Furto,SP,0
+399,Média,Analista 2,SIN-011259,0.1298018649892301,35284.86,3206.0284437187197,1706.0284437187197,Sinistro logo após contratar a apólice,Oficina,Colisão,MG,0
+400,Média,Analista 1,SIN-000342,0.0769076623572711,59533.84,3205.02592588626,1705.0259258862602,Sinistro logo após contratar a apólice,Histórico de sinistros,Colisão,PR,1
